@@ -1,0 +1,23 @@
+h2 {
+    border-style: dashed;
+    border-width: 4px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-color: lightgreen;
+}
+
+h1 {
+    border-style: dashed;
+    border-width: 7px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-color: lightblue;
+}
+
+.button {
+  font-size: 24px;
+}
+
+.selection {
+    font-size: 24px;
+    }
